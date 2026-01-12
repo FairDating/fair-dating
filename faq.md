@@ -1,5 +1,5 @@
-# Frequently Asked Questions (FAQ)
-
+---
+title:Frequently Asked Questions (FAQ)
 ---
 
 ## What is Fair Dating?

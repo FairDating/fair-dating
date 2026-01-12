@@ -1,4 +1,7 @@
-# Manifest
+---
+title: Manifest
+---
+
 ## What is Fair Dating about?
 Fair Dating is a pro consumer initiative advocating for equal opportunity, transparency and fairness in **online dating platforms**.
 
