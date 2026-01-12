@@ -1,3 +1,8 @@
 title: Fair Dating
 description: Dating is no Auction
 theme: minima
+
+header_pages:
+  - index.md
+  - manifest.md
+  - faq.md
