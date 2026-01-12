@@ -1,5 +1,4 @@
-# Fair Dating  
-### Dating is no Auction
+### Dating without frustration economics
 
 Fair Dating is a consumer focused initiative examining fairness, transparency, and monetization practices in online dating platforms.
 
